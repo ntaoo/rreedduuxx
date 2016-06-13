@@ -1,0 +1,1 @@
+Understanding redux, second time.
